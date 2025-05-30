@@ -4,7 +4,7 @@ A responsive e-commerce frontend application built with **Next.js** and **Tailwi
 
 ## 🚀 Live Demo
 
-👉 [View Live on Vercel](https://your-vercel-deployment-url.vercel.app)
+👉 [View Live on Vercel](https://whatbytes-frontend-assignment-scda-bu25kh85i.vercel.app)
 
 ## 📁 Project Structure
 
